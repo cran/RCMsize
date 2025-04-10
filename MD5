@@ -1,6 +1,6 @@
-4f89d8745a761187590e5c40e44b226a *DESCRIPTION
+e8ae10fb2521f49cf714871c4cdeb0d0 *DESCRIPTION
 68dc591d2dc2a5122ce3c8780ea52197 *NAMESPACE
-eafb74287d75479588c8b52c62ec453b *NEWS.md
+acdbbb783e08d1b896adf881aa1abf54 *NEWS.md
 1b54137d4ae82b40a266122de6d1201b *R/RCMsize-package.R
 f7867e041dde25610edfbd5e95e7c963 *R/confidence_intervals.R
 d00e70cbd4aa7597764449d26e6ec5a7 *R/sample_size.R
@@ -9,14 +9,14 @@ d00e70cbd4aa7597764449d26e6ec5a7 *R/sample_size.R
 2836b2c5db38c9819380bd093383d89d *build/partial.rdb
 60687e6ee84472dfacc64d3f971ff0d7 *build/vignette.rds
 dfa95e5c1bce7139195724a555b4ebbd *inst/doc/Using_RCMsize_for_Malaria_Research.R
-79bf31a4d498e1bf12cb67f64fa4c6ab *inst/doc/Using_RCMsize_for_Malaria_Research.Rmd
-a71fbf91b21532ba34111ad42b428e13 *inst/doc/Using_RCMsize_for_Malaria_Research.html
+f6ab8e78a8daa63148189cd1ef41c390 *inst/doc/Using_RCMsize_for_Malaria_Research.Rmd
+e7cdfb099375e4b32729516606f35d39 *inst/doc/Using_RCMsize_for_Malaria_Research.html
 aad1f7f758823c0caae688f776112d7f *man/IC_SCR.Rd
 05c28aa536d330f5343bdda8b558299d *man/IC_SP.Rd
 16db0b61ab0335fdcf010334188f9998 *man/IC_SP_Waldcc.Rd
-f128dbe9b7449c668ed617f9859bf441 *man/RCMsize-package.Rd
+e67328691e412ed6d88accf75dbdee4c *man/RCMsize-package.Rd
 cada2ce3b1b58bd46240af2dc8f388e8 *man/figures/logo.png
 47e701042cb06957860d86f818f110bd *man/prob_seropositive.Rd
 d1e26912a8216d8ad5faa53e420d581f *man/sample_s.Rd
 852f14ac6aa2e87fa7bb3a3b389843a2 *man/seroprevalence.Rd
-79bf31a4d498e1bf12cb67f64fa4c6ab *vignettes/Using_RCMsize_for_Malaria_Research.Rmd
+f6ab8e78a8daa63148189cd1ef41c390 *vignettes/Using_RCMsize_for_Malaria_Research.Rmd

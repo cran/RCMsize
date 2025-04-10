@@ -13,14 +13,19 @@ Sample size and confidence interval calculations in reversible catalytic models,
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://github.com/marciagraca/RCMsize }
-  \item \url{https://marciagraca.github.io/RCMsize/}
+  \item \url{https://CRAN.R-project.org/package=RCMsize}
   \item Report bugs at \url{https://github.com/marciagraca/RCMsize/issues}
 }
 
 }
 \author{
-\strong{Maintainer}: Márcia Graça \email{marcia_da_graca@hotmail.com} [copyright holder]
+\strong{Maintainer}: Márcia Graça \email{marcia_da_graca@hotmail.com}
+
+Authors:
+\itemize{
+  \item Fernanda Diamantino [thesis advisor]
+  \item Nuno Sepúlveda [contributor, thesis advisor]
+}
 
 }
 \keyword{internal}
